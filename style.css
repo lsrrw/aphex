@@ -6,6 +6,8 @@ footer {text-align: left;}
 footer {border-color: black;
     border-style: double;
     border-width: 5px;}
+footer {margin-right: 4%;}
+footer {margin-left: 4%;}
 
 h1 {margin-top: 0%;}
 h2 {margin-right: 4%;}
