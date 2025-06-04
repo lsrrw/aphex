@@ -6,3 +6,7 @@ footer {text-align: left;}
 
 h2 {margin-right: 4%;}
 h2 {margin-left: 4%;}
+
+footer {border-color: black;
+    border-style: double;
+    border-width: 5px;}
